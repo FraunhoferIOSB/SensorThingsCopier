@@ -69,10 +69,9 @@ public class AuthBasic implements AuthMethod {
         credsProvider.setCredentials(
                 new AuthScope(url.getHost(), url.getPort()),
                 new UsernamePasswordCredentials(editorUsername.getValue(), editorPassword.getValue()));
-        CloseableHttpClient httpclient = HttpClients.custom()
-                .setDefaultCredentialsProvider(credsProvider)
-                .build();
-        service.setHttpClient(httpclient);
+        service.getClientBuilder()
+                .setDefaultCredentialsProvider(credsProvider);
+        service.rebuildHttpClient();
     }
 
 }
