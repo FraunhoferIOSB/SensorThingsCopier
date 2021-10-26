@@ -24,7 +24,7 @@
         <FROST-Client.version>0.39</FROST-Client.version>
         <hamcrest.version>2.2</hamcrest.version>
         <javax-activation.version>1.1.1</javax-activation.version>
-        <joda-time.version>2.10.12</joda-time.version>
+        <joda-time.version>2.10.13</joda-time.version>
         <junit.version>4.13.2</junit.version>
         <logback.version>1.2.6</logback.version>
         <openjfx.version>17.0.1</openjfx.version>
