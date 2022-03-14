@@ -19,7 +19,7 @@
         <bintray.package>SensorThingsCopier</bintray.package>
 
         <commons-io.version>2.11.0</commons-io.version>
-        <Configurable.version>0.32</Configurable.version>
+        <Configurable.version>0.33</Configurable.version>
         <dockerfile-maven-plugin.version>1.4.13</dockerfile-maven-plugin.version>
         <FROST-Client.version>0.42</FROST-Client.version>
         <hamcrest.version>2.2</hamcrest.version>
