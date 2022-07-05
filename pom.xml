@@ -21,7 +21,7 @@
         <commons-io.version>2.11.0</commons-io.version>
         <Configurable.version>0.33</Configurable.version>
         <dockerfile-maven-plugin.version>1.4.13</dockerfile-maven-plugin.version>
-        <FROST-Client.version>0.42</FROST-Client.version>
+        <FROST-Client.version>0.43</FROST-Client.version>
         <hamcrest.version>2.2</hamcrest.version>
         <javax-activation.version>1.1.1</javax-activation.version>
         <joda-time.version>2.10.14</joda-time.version>
