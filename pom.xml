@@ -27,7 +27,7 @@
         <joda-time.version>2.12.2</joda-time.version>
         <junit.version>4.13.2</junit.version>
         <logback.version>1.4.6</logback.version>
-        <openjfx.version>19.0.2.1</openjfx.version>
+        <openjfx.version>20.0.1</openjfx.version>
     </properties>
 
     <build>
