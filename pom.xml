@@ -18,7 +18,7 @@
         <bintray.repo>Maven</bintray.repo>
         <bintray.package>SensorThingsCopier</bintray.package>
 
-        <commons-io.version>2.13.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <Configurable.version>0.34</Configurable.version>
         <dockerfile-maven-plugin.version>1.4.13</dockerfile-maven-plugin.version>
         <FROST-Client.version>0.44</FROST-Client.version>
@@ -27,7 +27,7 @@
         <joda-time.version>2.12.5</joda-time.version>
         <junit.version>4.13.2</junit.version>
         <logback.version>1.4.11</logback.version>
-        <openjfx.version>20.0.2</openjfx.version>
+        <openjfx.version>21</openjfx.version>
     </properties>
 
     <build>
